@@ -3,7 +3,7 @@ class config:
     APP_ID = "21744038"
     API_HASH = "e9097e50a860a8486527c6dd6bd9b503"
     DATABASE_URL = "mongodb://mongo:LtESLZPazpOLmKO0Q7Gd@containers-us-west-57.railway.app:7484"
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "6103879492" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
