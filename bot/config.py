@@ -1,8 +1,8 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "6277017251:AAE9zpvLpoOkCCVHdExLUK3NAjokbSAeDFE"
+    APP_ID = "21744038"
+    API_HASH = "e9097e50a860a8486527c6dd6bd9b503"
+    DATABASE_URL = "mongodb://mongo:LtESLZPazpOLmKO0Q7Gd@containers-us-west-57.railway.app:7484"
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
